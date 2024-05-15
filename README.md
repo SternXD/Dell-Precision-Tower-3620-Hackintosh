@@ -9,10 +9,6 @@
 | Sound Card          | Realtek ALC236 (layout-id:3) |
 | Wireless Card       | Intel AX200              |
 
-## MacOS Versions Tested:
-
-- macOS Sonoma
-
 ## Changelog
 
 ### 05/15/2024
