@@ -45,4 +45,4 @@
 
 ## IMPORTANT
 
-Make sure to add SMBIOS of iMac TBD and serial number in config.plist.
+Make sure to add SMBIOS of iMac19,1 and serial number in config.plist.
