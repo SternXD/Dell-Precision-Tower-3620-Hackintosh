@@ -6,7 +6,7 @@
 | ------------------- | ---------------------------- |
 | CPU                 | Intel Core i5-6600 |
 | Integrated Graphics | Intel HD Graphics 530 |
-| Sound Card          | Realtek ALC236 (layout-id:3) |
+| Sound Card          | Realtek ALC899 (layout-id:1) |
 | Wireless Card       | Intel AX200              |
 
 ## Changelog
@@ -31,13 +31,7 @@
 
 ## BIOS settings
 
-- [ ] Fast Boot
-- Secure Boot Configurations - Configure Legacy Support and Secure Boot = Legacy Support Disable and Secure Boot Disable
-- [ ] VTx in System Options
-- Wake On LAN = Disabled
-- Wake On WLAN = Disabled
-- Video Memory size = 64 MB
-- Wake on USB = optional
+TBD
 
 ## IMPORTANT
 
