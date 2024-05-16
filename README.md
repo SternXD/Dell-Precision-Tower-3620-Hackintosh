@@ -27,7 +27,6 @@
 - [x] Line-in mic
 - [x] Fn keys: play/pause, prt scr(F13), sound mute/-/+, sleep
 
-## Not working:
 
 ## BIOS settings
 
