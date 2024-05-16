@@ -25,7 +25,6 @@
 - [x] USB 3.0
 - [x] Built-in mic
 - [x] Line-in mic
-- [x] Fn keys: play/pause, prt scr(F13), sound mute/-/+, sleep
 
 
 ## BIOS settings
