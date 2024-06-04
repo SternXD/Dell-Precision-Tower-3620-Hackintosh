@@ -4,8 +4,9 @@
 
 | Specifications      | Detail                       |
 | ------------------- | ---------------------------- |
-| CPU                 | Intel Core i5-6600 |
-| Integrated Graphics | Intel HD Graphics 530 |
+| CPU                 | Intel Core i7-7700 |
+| GPU                 | AMD RX 6650 XT |
+| Integrated Graphics (Disabled) | Intel HD Graphics 630 |
 | Sound Card          | Realtek ALC899 (layout-id:1) |
 | Wireless Card       | Intel AX200              |
 
@@ -18,7 +19,8 @@
 ## What is Working?
 
 - [x] Sleep/Wake
-- [x] Intel Graphics
+- [x] AMD Graphics
+- [x] Intel Graphics (disabled though)
 - [x] Onboard Speakers
 - [x] HDMI: Video and Audio
 - [x] Display Port: Video and Audio
@@ -33,4 +35,4 @@ TBD
 
 ## IMPORTANT
 
-Make sure to add SMBIOS of iMac19,1 and serial number in config.plist.
+Make sure to add SMBIOS of MacPro7,1 and serial number in config.plist.
